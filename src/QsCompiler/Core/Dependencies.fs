@@ -112,7 +112,7 @@ type BuiltIn =
             BuiltIn.ApplyIfElseRA
             BuiltIn.ApplyIfElseRC
             BuiltIn.ApplyIfElseRCA
-            // in other namespaces (e.g. things used for code actions)
+            // in Microsoft.Quantum.Arrays
             BuiltIn.IndexRange
         |]
         |> ImmutableHashSet.Create<BuiltIn>
