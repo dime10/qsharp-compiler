@@ -21,7 +21,7 @@
                       Include="libLLVM.runtime.ubuntu.20.04-x64" Version="11.0.0"
                       PrivateAssets="All" GeneratePathProperty="true" />
     <PackageReference Include="Microsoft.Quantum.Qir.Runtime" Version="0.16.2105142080-alpha" GeneratePathProperty="true" />
-    <PackageReference Include="Microsoft.Quantum.Simulators" Version="0.16.2105142080-alpha" GeneratePathProperty="true" />
+    <PackageReference Include="Microsoft.Quantum.Simulators" Version="0.17.210527203-alpha" GeneratePathProperty="true" />
   </ItemGroup>
     
   <PropertyGroup>
